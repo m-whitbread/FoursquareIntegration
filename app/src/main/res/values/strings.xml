@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foursquare Integration</string>
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+</resources>
